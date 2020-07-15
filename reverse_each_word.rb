@@ -14,4 +14,3 @@ def reverse_each_word_with_collect (sentence)
   end
 
   
-  
