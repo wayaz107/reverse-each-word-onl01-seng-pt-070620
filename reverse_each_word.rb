@@ -12,5 +12,4 @@ def reverse_each_word_with_collect (sentence)
   array.collect do |sentence|
     sentence.reverse.join(" ")
   end
-
-  
+end
